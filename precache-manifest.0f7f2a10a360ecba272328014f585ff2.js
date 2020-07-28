@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "987da976a8b2a4169346a497ba84749d",
+    "revision": "c348899ae6ca1703a40a279c619572bc",
     "url": "/simple-stopwatch/favicon.ico"
   },
   {
-    "revision": "932cbd1bae7bcc7182c2987f11bc71a6",
+    "revision": "a690c1e849432ad4a8d9387a1e20e592",
     "url": "/simple-stopwatch/index.html"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-stopwatch/manifest.json"
   },
   {
-    "revision": "24beb463aaa9c203f131",
+    "revision": "d9b5fac0bbe3500211a0",
     "url": "/simple-stopwatch/static/css/main.7f457dfb.chunk.css"
   },
   {
-    "revision": "24beb463aaa9c203f131",
-    "url": "/simple-stopwatch/static/js/main.24beb463.chunk.js"
+    "revision": "d9b5fac0bbe3500211a0",
+    "url": "/simple-stopwatch/static/js/main.d9b5fac0.chunk.js"
   },
   {
     "revision": "b6fcf50a44302e727ae7",
