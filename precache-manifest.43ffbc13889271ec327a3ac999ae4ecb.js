@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-stopwatch/github.svg"
   },
   {
-    "revision": "997860cb4d8e28afd6d0942f26dbd77a",
+    "revision": "f3fb8078ce9ec86c64faec093f645e1a",
     "url": "/simple-stopwatch/index.html"
   },
   {
